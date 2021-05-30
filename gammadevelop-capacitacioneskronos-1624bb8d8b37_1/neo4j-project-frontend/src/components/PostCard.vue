@@ -47,7 +47,6 @@
          <v-avatar
 						size="36px"
 					><img src="@/assets/foto.jpg" /></v-avatar>
-					<h3 class="ml-3 Fregular"> {{ $store.getters.getCurrentUser.username }} </h3>
       </v-card-title>
 			<div class="ml-3">
       <v-card-text>
